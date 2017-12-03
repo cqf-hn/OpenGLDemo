@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="opengldemo.opengldemo">
+    package="cqf.hn.demo">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Sample5_14.Sample5_14_Activity">
+        <activity android:name="cqf.hn.demo.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
